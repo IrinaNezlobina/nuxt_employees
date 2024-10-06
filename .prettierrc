@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "prettier-plugin-tailwindcss",
+    "prettier-plugin-organize-attributes"
+  ],
+  "semi": true,
+  "singleQuote": false,
+  "printWidth": 120
+}
